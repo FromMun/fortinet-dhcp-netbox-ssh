@@ -1,4 +1,4 @@
-Value to define in script:
+Values to define in script:
 
 NETBOX_URL = ""
 NETBOX_TOKEN = ""
